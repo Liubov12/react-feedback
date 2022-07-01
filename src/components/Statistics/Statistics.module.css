@@ -1,0 +1,10 @@
+.list {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.item {
+  color: #dd90f5;
+  font-size: 18px;
+  font-weight: 500;
+}
